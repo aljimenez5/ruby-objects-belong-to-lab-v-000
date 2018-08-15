@@ -8,6 +8,4 @@ class Post
   def self.author
     @author
   end
-
-
 end
