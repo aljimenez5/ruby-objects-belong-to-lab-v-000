@@ -8,6 +8,4 @@ class Song
   def self.artist
     @artist
   end
-
-  
 end
